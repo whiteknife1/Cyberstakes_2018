@@ -1,0 +1,1 @@
+This is a collection of challenges from the all army cyberstakes. Not all challenges were solved. Some of the solve scripts are based off of a specific libc and will not work locally without adjusting the offsets.
